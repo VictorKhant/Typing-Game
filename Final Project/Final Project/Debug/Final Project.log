@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(8): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Final Project.vcxproj -> C:\Users\victorkhant\source\repos\Final Project\Debug\Final Project.exe
