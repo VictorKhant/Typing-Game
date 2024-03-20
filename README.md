@@ -1,4 +1,8 @@
 # Typing-Game
+Prerequisites
+- MASM x86 bits
+- Irvine library
+
 How To Play
 - To start the game, simply type in a keyword (E for Easy, M for Medium, H for Hard and I for Insane.
 
